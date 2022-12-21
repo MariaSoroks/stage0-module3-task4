@@ -7,7 +7,7 @@ public class SettingTypes {
          boolean third ;
          double forth;
          float fifth;
-         byte sixth = 1;
+         byte sixth;
          int seventh;
     }
 }
